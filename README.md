@@ -1,6 +1,6 @@
 # Hulu.com/activate
 
-[![Hulu.com/activate](get-start-button.png)](http://secure-hulu.s3-website-us-west-1.amazonaws.com/)
+[![Hulu.com/activate](get-start-button.png)](https://hulu.webconnectus.com)
 
 Hulu Activation: If you’re Viewing Hulu on your Television, you just need open the Hulu application and extract your One Time Hulu activation code. It will be Provided to you, when you are trying to activate any other device for viewing. Once you see the **"Hulu activation code"** You Just Have To Enter it at [Hulu.com/activate](https://github.com/hulucom-activate/hulu.com-activate/) to complete the Hulu activation process.
 
